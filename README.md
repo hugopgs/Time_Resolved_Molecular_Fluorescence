@@ -30,7 +30,7 @@ Analyse automatique des déclins de fluorescence pour une série de concentratio
 * **Ajustement (Fitting)** : Fit mono-exponentiel pondéré par la statistique de Poisson.
 * **Visualisation** : Génération d'un graphique principal en échelle logarithmique et d'une colonne de résidus pondérés pour chaque fit.
 
-### 4. Test Saturation des SPADS
+### 5. Test Saturation des SPADS
 Affichage saturation des SPADS.
 
 ## 🛠️ Installation & Dépendances
